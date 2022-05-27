@@ -1,0 +1,36 @@
+Question/Need:
+
+MTA would like to introduce new experimental advertising panels at their stations. First 10 systems will be installed in September 2022, which seems to be perfect timing to reach Christmas buyers.
+MTA representatives contacted me to identify 10 stations that could fully show potential of new advertising medium during September - December period.
+
+What dataset(s) do you plan to use, and how will you obtain the data? Please include a link! (The link can be to the dataset you’re downloading, the site you’re scraping, etc.):
+
+Link for the data:
+http://web.mta.info/developers/turnstile.html
+
+What is an individual sample/unit of analysis in this project? In other words, what does one row or observation of the data represent?
+
+Description of individual unit of analysis:
+http://web.mta.info/developers/resources/nyct/turnstile/ts_Field_Description.txt
+
+What characteristics/features do you expect to work with? In other words, what are your columns of interest?
+
+My columns of interest will be:
+- STATION  = Represents the station name the device is located at
+- DATE     = Represents the date (MM-DD-YY)
+- TIME     = Represents the time (hh:mm:ss) for a scheduled audit event
+- ENTRIES  = The comulative entry register value for a device
+- EXIST    = The cumulative exit register value for a device
+I plan to analyze traffic for Sept - Dec 2021 to see last years trend during considered period. Data from Jan -May 2022 may show latest trend. Period Sept - Dec before Pandemic disturbance may add more context.
+
+Tools:
+
+SQL, Python, Pandas and other Python libraries.
+
+Are you planning in advance to need or use additional tools beyond those required?
+
+I consider using MTA stations map for visualisation
+
+What would a minimum viable product (MVP) look like for this project?
+
+It will be list of 10 most busy station in described periods. 
