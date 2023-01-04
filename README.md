@@ -9,12 +9,12 @@ ABSTRACT
 
 DESIGN
 
-The design involved the following steps:
 - Gather MTA turnstile data from three different time periods: September to December 2021, January to May 2022, and September to December 2019.
 - Import and clean the data as needed.
 - Process the data to get daily entrance numbers for each turnstile.
 - Identify the top 10 stations based on daily entrances.
 - Visualize and communicate the findings through a slide presentation.
+
 The goal of this project was to provide MTA with recommendations for their new experimental advertising panels, which are set to be installed in September 2022.
 
 DATA
