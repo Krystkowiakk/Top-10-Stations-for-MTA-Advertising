@@ -1,28 +1,35 @@
-# EXPLORATORY DATA ANALYSIS
-Predicting 10 busiest MTA stations for end of 2022.
+# Top 10 Stations for MTA Advertising
+project/month 1
+METIS Data Science and Machine Learning Bootcamp 
+focus: EXPLORATORY DATA ANALYSIS
 By: Krystian Krystkowiak
 
 ABSTRACT
-MTA representatives contacted me to help predict and identify 10 stations that could fully show potential of new advertising medium during September - December 2022 period. The goal of this project was to analyse MTA turnstile data in order to help predict 10 station best suited for testing efficiency of new advertising panels. I worked with MTA turnstile data provided at company’s webpage (http://web.mta.info/developers/turnstile.html). Analysing station traffic data from couple periods I created recommendation of 10 stations. I visualised and communicated my results using Matplotlib and Seaborn plots.
+- Utilized MTA turnstile data to identify optimal locations for Christmas advertising campaign in New York.
+- This project aims to identify the top 10 stations for MTA advertising in New York City during the September to December 2022 period. To do this, I analyzed MTA turnstile data from three different time periods: September to December 2021, January to May 2022, and September to December 2019. By processing and manipulating the data with tools such as SQL, SQLite, SQLAlchemy, NumPy, and Pandas, I was able to identify the top 10 stations based on daily entrances. I then communicated my findings through a slide presentation using Matplotlib and Seaborn for visualization.
 
 DESIGN
-MTA would like to introduce new experimental advertising panels at their stations. First 10 systems will be installed in September 2022, which seems to be perfect timing to reach Christmas buyers. MTA representatives contacted me to help predict and identify 10 stations that could fully show potential of new advertising medium during September - December period.
+The design involved the following steps:
+- Gather MTA turnstile data from three different time periods: September to December 2021, January to May 2022, and September to December 2019.
+- Import and clean the data as needed.
+- Process the data to get daily entrance numbers for each turnstile.
+- Identify the top 10 stations based on daily entrances.
+- Visualize and communicate the findings through a slide presentation.
+The goal of this project was to provide MTA with recommendations for their new experimental advertising panels, which are set to be installed in September 2022.
 
 DATA
-I worked with MTA turnstile data provided at company’s webpage (http://web.mta.info/developers/turnstile.html).
-Data set contains information about entry/exit register values for each MTA turnstile at certain control area in 4 hours intervals. Description of individual unit of analysis can be found under that link:
-http://web.mta.info/developers/resources/nyct/turnstile/ts_Field_Description.txt
-I considered 3 periods: Sept-Dec 2021, to analyse last years traffic. Jan-May 2022, for latest trend. Sept-Dec 2019, as traffic data from before pandemic traffic drop could add more context. 
+The data for this project was obtained from the MTA's website (http://web.mta.info/developers/turnstile.html). It consists of information on entry and exit counts for each MTA turnstile at a particular control area, recorded at 4-hour intervals. The data set covers three time periods: September to December 2021, January to May 2022, and September to December 2019. The data from September to December 2019 was included in the analysis as it represents traffic data from before the COVID-19 pandemic, which may provide additional context on typical station traffic.
 
 ALGORITHMS
-After importing and cleaning data, I processed it to get daily entrances number per turnstile which was base to get information about traffic at stations in time periods.
+Import, clean, and manipulate the MTA turnstile data. This involved processing the data to calculate daily entrance numbers for each turnstile, which allowed for the analysis of traffic at different stations and the identification of the top 10 stations.
 
 TOOLS
-SQL and SQLite for initial exploration
-SQLAlchemy for data import to Pandas
+SQL and SQLite for initial data exploration
+SQLAlchemy for importing the data into Pandas
 NumPy and Pandas for data manipulation
-Matplotlib and Seaborn for plotting
+Matplotlib and Seaborn for visualization and creating plots for the presentation
 
 COMMUNICATION
-5-minute slide presentation
+5-minute slide presentation.
+The presentation was designed to clearly convey the findings of the analysis and provide recommendations for the placement of the new experimental advertising panels.
 
