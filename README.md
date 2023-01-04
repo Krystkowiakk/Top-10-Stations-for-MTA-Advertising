@@ -1,7 +1,7 @@
-### Top 10 Stations for MTA Advertising
-##METIS Data Science and Machine Learning Bootcamp 
-##project/month(1) focus: EXPLORATORY DATA ANALYSIS
-##By: Krystian Krystkowiak 2022
+# Top 10 Stations for MTA Advertising
+## METIS Data Science and Machine Learning Bootcamp 
+## project/month(1) focus: EXPLORATORY DATA ANALYSIS
+## By: Krystian Krystkowiak 2022
 
 ABSTRACT
 - Utilized MTA turnstile data to identify optimal locations for Christmas advertising campaign in New York.
