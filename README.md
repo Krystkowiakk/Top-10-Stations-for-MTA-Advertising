@@ -37,6 +37,6 @@ COMMUNICATION
 5-minute slide presentation.
 The presentation was designed to clearly convey the findings of the analysis and provide recommendations for the placement of the new experimental advertising panels.
 
-![Top 10 Stations for MTA Advertising](image_url)
+![Top 10 Stations for MTA Advertising](files/cover.png)
 
 
