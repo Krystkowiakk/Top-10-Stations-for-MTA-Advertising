@@ -1,8 +1,8 @@
 # Top 10 Stations for MTA Advertising
 ###### METIS Data Science and Machine Learning Bootcamp 2022 by Krystian Krystkowiak
 ###### project/month(1) focus: EXPLORATORY DATA ANALYSIS
-### Project code [GitHub](https://github.com/Krystkowiakk/Metis-Project-1-EDA-on-MTA/blob/372cfd21b3e998a53f0f57ddaba1de06e52a37d3/METIS_Krystkowiak_Krystian_Project_1_EDA.ipynb)
-### Presentation [GitHub](https://github.com/Krystkowiakk/Metis-Project-1-EDA-on-MTA/blob/372cfd21b3e998a53f0f57ddaba1de06e52a37d3/Project%20Presentation/METIS_Krystkowiak_Krystian_Project_1_EDA.pdf)
+#### Project code [GitHub](https://github.com/Krystkowiakk/Metis-Project-1-EDA-on-MTA/blob/372cfd21b3e998a53f0f57ddaba1de06e52a37d3/METIS_Krystkowiak_Krystian_Project_1_EDA.ipynb)
+#### Presentation [GitHub](https://github.com/Krystkowiakk/Metis-Project-1-EDA-on-MTA/blob/372cfd21b3e998a53f0f57ddaba1de06e52a37d3/Project%20Presentation/METIS_Krystkowiak_Krystian_Project_1_EDA.pdf)
 
 ABSTRACT
 - Utilized MTA turnstile data to identify optimal locations for Christmas advertising campaign in New York.
