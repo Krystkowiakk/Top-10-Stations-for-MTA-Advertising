@@ -37,6 +37,9 @@ COMMUNICATION
 5-minute slide presentation.
 The presentation was designed to clearly convey the findings of the analysis and provide recommendations for the placement of the new experimental advertising panels.
 
+Project code [GitHub](https://github.com/Krystkowiakk/Metis-Project-1-EDA-on-MTA/blob/372cfd21b3e998a53f0f57ddaba1de06e52a37d3/METIS_Krystkowiak_Krystian_Project_1_EDA.ipynb)
+Presentation [GitHub](https://github.com/Krystkowiakk/Metis-Project-1-EDA-on-MTA/blob/372cfd21b3e998a53f0f57ddaba1de06e52a37d3/Project%20Presentation/METIS_Krystkowiak_Krystian_Project_1_EDA.pdf)
+
 ![Top 10 Stations for MTA Advertising](files/cover.png)
 
 
