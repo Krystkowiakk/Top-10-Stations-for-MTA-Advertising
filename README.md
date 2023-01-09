@@ -1,7 +1,7 @@
 # Top 10 Stations for MTA Advertising
 ###### METIS Data Science and Machine Learning Bootcamp 2022 by Krystian Krystkowiak
 ###### project/month(1/7) focus: EXPLORATORY DATA ANALYSIS
-#### Code [GitHub](https://github.com/Krystkowiakk/Metis-Project-1-EDA-on-MTA/blob/372cfd21b3e998a53f0f57ddaba1de06e52a37d3/METIS_Krystkowiak_Krystian_Project_1_EDA.ipynb)
+#### Code [GitHub](https://github.com/Krystkowiakk/Top-10-Stations-for-MTA-Advertising/blob/ac665ae21f30e66e92aaff7461f66693fdae9d9e/METIS_Krystkowiak_Krystian_Project_1_EDA.ipynb)
 #### Presentation [GitHub](https://github.com/Krystkowiakk/Top-10-Stations-for-MTA-Advertising/blob/ac665ae21f30e66e92aaff7461f66693fdae9d9e/Project%20Presentation/METIS_Krystkowiak_Krystian_Project_1_EDA.pdf)
 
 ABSTRACT
